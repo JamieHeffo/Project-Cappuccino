@@ -1,0 +1,22 @@
+{
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+        {"name":"white rice","amount":200},
+        {"name":"carrots","amount":50},
+        {"name":"peas","amount":50},
+        {"name":"onions","amount":50},
+        {"name":"garlic","amount":10},
+        {"name":"soy sauce","amount":20},
+        {"name":"vegetable oil","amount":30},
+        {"name":"green onions","amount":10}
+    ],
+    "instructions": [
+        "Cook the rice according to package instructions.",
+        "In a large skillet, heat vegetable oil over medium heat.",
+        "Add the onions and garlic and cook until softened.",
+        "Add the carrots and peas and stir-fry for 5 minutes.",
+        "Add the cooked rice, soy sauce and green onions to the skillet.",
+        "Toss the rice and vegetables until everything is well combined.",
+        "Serve hot."
+    ]
+}
